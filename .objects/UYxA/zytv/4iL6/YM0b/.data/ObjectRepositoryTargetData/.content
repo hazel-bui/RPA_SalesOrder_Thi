@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="c64sZSsRrUKc_Az0PloZzQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="0c3c30d1-ee88-4372-889f-cde90af99f16" CvType="AnyWordGroup" DesignTimeRectangle="1655, 475, 76, 20" ElementType="Text" FullSelectorArgument="&lt;webctrl id='template-html-shadow-host' tag='DIV' /&gt;&lt;webctrl class='pcs-itemtable' shadowhostid='template-html-shadow-host' tag='TABLE' /&gt;&lt;webctrl id='tmp_item_amount' shadowhostid='template-html-shadow-host' tableRow='2' tag='SPAN' /&gt;" Guid="e60507af-810b-4a5c-9f63-c6a01a652e36" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SO-00057 | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0c3c30d1-ee88-4372-889f-cde90af99f16" CvTextArea="1672, 432, 60, 15" CvTextArgument="Amount" CvType="Text" DesignTimeRectangle="1612, 420, 132, 40" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='template-html-shadow-host' tag='DIV' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl class='pcs-itemtable' shadowhostid='template-html-shadow-host' tag='TABLE' matching:class='fuzzy' fuzzylevel:class='0.0' matching:shadowhostid='fuzzy' fuzzylevel:shadowhostid='0.0' /&gt;&lt;webctrl shadowhostid='template-html-shadow-host' type='' class='pcs-itemtable-header pcs-itemtable-breakword' tag='TD' aaname='       Amount     ' matching:shadowhostid='fuzzy' fuzzylevel:shadowhostid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Amount' /&gt;" Guid="e176d598-0447-47d1-a67a-2e02a7f61ddf" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="96834703b8c3716bc6f69bca4975cad6.png" xmlns="">00LApSQPYPUuKd5IG8axEZg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

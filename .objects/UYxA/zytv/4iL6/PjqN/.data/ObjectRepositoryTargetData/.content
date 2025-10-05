@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dG_g2bqUV0SCgMf7NT8VGg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="6a8bd7ea-6c12-4e53-931b-05ea6649334c" CvType="AnyWordGroup" DesignTimeRectangle="934, 725, 176, 20" ElementType="Text" FullSelectorArgument="&lt;webctrl id='template-html-shadow-host' tag='DIV' /&gt;&lt;webctrl class='pcs-itemtable' shadowhostid='template-html-shadow-host' tag='TABLE' /&gt;&lt;webctrl id='tmp_item_name' shadowhostid='template-html-shadow-host' tableRow='2' tag='SPAN' /&gt;" Guid="7b6ca18f-cba1-4b6e-8829-0a0f5a82bd9c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SO-00056 | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6a8bd7ea-6c12-4e53-931b-05ea6649334c" CvTextArea="932, 682, 133, 18" CvTextArgument="Item &amp; Description" CvType="Text" DesignTimeRectangle="909, 670, 510, 40" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='template-html-shadow-host' tag='DIV' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl class='pcs-itemtable' shadowhostid='template-html-shadow-host' tag='TABLE' matching:class='fuzzy' fuzzylevel:class='0.0' matching:shadowhostid='fuzzy' fuzzylevel:shadowhostid='0.0' /&gt;&lt;webctrl shadowhostid='template-html-shadow-host' type='' class='pcs-itemtable-header pcs-itemtable-breakword' tag='TD' aaname='       Item &amp;amp; Description     ' matching:shadowhostid='fuzzy' fuzzylevel:shadowhostid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Item &amp;amp; Description' /&gt;" Guid="e824cc62-c8b5-4757-846e-e989946f922c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e92f660dd9bd139d5458810e86c64699.png" xmlns="">0HVy-kydBTUqzqlIRjG4zZw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
