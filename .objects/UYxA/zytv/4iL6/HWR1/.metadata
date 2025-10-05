@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Expected Shipment Date(2)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "HWR13D6QIEanE91LJz_GUQ",
+  "Reference": "0ZykKJO-h02qC-ebExlJ8g/HWR13D6QIEanE91LJz_GUQ",
+  "ParentRef": "0ZykKJO-h02qC-ebExlJ8g/4iL6mS6a0UW3mO0mAIMCpg",
+  "Created": "2025-10-05T07:01:29.6222182Z",
+  "Updated": "2025-10-05T07:01:29.6222182Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

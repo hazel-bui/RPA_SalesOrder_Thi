@@ -139,7 +139,7 @@
       <x:Boolean x:Key="ShouldExpandAll">True</x:Boolean>
     </scg:Dictionary>
   </sap:WorkflowViewStateService.ViewState>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="1089.6,7820" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="1089.6,8383.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="sd:DataTable" Name="dt_SalesOrder" />
       <Variable x:TypeArguments="scg:IEnumerable(ui:QueueItem)" Name="queueSalesOrder" />
@@ -150,34 +150,34 @@
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <ui:GetQueueItems Duration="{x:Null}" From="{x:Null}" Priority="{x:Null}" Reference="{x:Null}" Skip="{x:Null}" TimeoutMS="{x:Null}" To="{x:Null}" Top="{x:Null}" DisplayName="Get Queue Items" FilterStrategy="Equals" FolderPath="thibth22411c@st.uel.edu.vn's workspace" sap:VirtualizedContainerService.HintSize="1089.6,175.2" sap2010:WorkflowViewState.IdRef="GetQueueItems_1" QueueItemStates="New" QueueName="SalesOrder" Result="[queueSalesOrder]" />
-    <ui:ForEach x:TypeArguments="ui:QueueItem" CurrentIndex="{x:Null}" DisplayName="For Each currentQueueItem" sap:VirtualizedContainerService.HintSize="1089.6,7621.6" sap2010:WorkflowViewState.IdRef="ForEach`1_3" Values="[queueSalesOrder]">
+    <ui:ForEach x:TypeArguments="ui:QueueItem" CurrentIndex="{x:Null}" DisplayName="For Each currentQueueItem" sap:VirtualizedContainerService.HintSize="1089.6,8184.8" sap2010:WorkflowViewState.IdRef="ForEach`1_3" Values="[queueSalesOrder]">
       <ui:ForEach.Body>
         <ActivityAction x:TypeArguments="ui:QueueItem">
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="ui:QueueItem" Name="currentQueueItem" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="1088,7500" sap2010:WorkflowViewState.IdRef="Sequence_9">
+          <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="1088,8063.2" sap2010:WorkflowViewState.IdRef="Sequence_9">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
             <ui:GetQueueItem ContinueOnError="{x:Null}" TimeoutMS="{x:Null}" DisplayName="Get Transaction Item" FolderPath="thibth22411c@st.uel.edu.vn's workspace" sap:VirtualizedContainerService.HintSize="1054.4,175.2" sap2010:WorkflowViewState.IdRef="GetQueueItem_1" QueueType="SalesOrder" TransactionItem="[currentQueueItem]" />
-            <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="1054.4,7264.8" sap2010:WorkflowViewState.IdRef="TryCatch_1">
+            <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="1054.4,7828" sap2010:WorkflowViewState.IdRef="TryCatch_1">
               <TryCatch.Try>
-                <Sequence DisplayName="Try" sap:VirtualizedContainerService.HintSize="1052.8,6733.6" sap2010:WorkflowViewState.IdRef="Sequence_10">
+                <Sequence DisplayName="Try" sap:VirtualizedContainerService.HintSize="1052.8,7296.8" sap2010:WorkflowViewState.IdRef="Sequence_10">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="Chrome Sales Orders  Zoho Inventory" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="1019.2,6673.6" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" InteractionMode="DebuggerApi" ScopeGuid="ade38d98-be2d-442b-8063-4787a70ce5b3" Version="V2">
+                  <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="Chrome Sales Orders  Zoho Inventory" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="1019.2,7236.8" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" InteractionMode="DebuggerApi" ScopeGuid="ade38d98-be2d-442b-8063-4787a70ce5b3" Version="V2">
                     <uix:NApplicationCard.Body>
                       <ActivityAction x:TypeArguments="x:Object">
                         <ActivityAction.Argument>
                           <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
                         </ActivityAction.Argument>
-                        <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="985.6,6433.6" sap2010:WorkflowViewState.IdRef="Sequence_8">
+                        <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="985.6,6996.8" sap2010:WorkflowViewState.IdRef="Sequence_8">
                           <Sequence.Variables>
                             <Variable x:TypeArguments="x:String" Name="SalesOrderID" />
                             <Variable x:TypeArguments="x:String" Name="CustomerName" />
@@ -303,7 +303,7 @@
                               </scg:Dictionary>
                             </sap:WorkflowViewStateService.ViewState>
                           </uix:NTypeInto>
-                          <uix:NCheckState DisplayName="Check App State 'No results found'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="952,3689.6" sap2010:WorkflowViewState.IdRef="NCheckState_1" ScopeIdentifier="ade38d98-be2d-442b-8063-4787a70ce5b3" Version="V5">
+                          <uix:NCheckState DisplayName="Check App State 'No results found'" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="952,4252.8" sap2010:WorkflowViewState.IdRef="NCheckState_1" ScopeIdentifier="ade38d98-be2d-442b-8063-4787a70ce5b3" Version="V5">
                             <uix:NCheckState.IfExists>
                               <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="449.6,111.2" sap2010:WorkflowViewState.IdRef="Sequence_3">
                                 <sap:WorkflowViewStateService.ViewState>
@@ -322,7 +322,7 @@
                               </Sequence>
                             </uix:NCheckState.IfExists>
                             <uix:NCheckState.IfNotExists>
-                              <Sequence DisplayName="Target does not appear" sap:VirtualizedContainerService.HintSize="449.6,3439.2" sap2010:WorkflowViewState.IdRef="Sequence_4">
+                              <Sequence DisplayName="Target does not appear" sap:VirtualizedContainerService.HintSize="449.6,4002.4" sap2010:WorkflowViewState.IdRef="Sequence_4">
                                 <Sequence.Variables>
                                   <Variable x:TypeArguments="x:String" Name="currentURL" />
                                   <Variable x:TypeArguments="x:String" Name="mainURL" />
@@ -380,12 +380,33 @@
                                     </scg:Dictionary>
                                   </sap:WorkflowViewStateService.ViewState>
                                 </uix:NTypeInto>
-                                <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 'Expected Shipment Date'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,286.4" sap2010:WorkflowViewState.IdRef="NTypeInto_3" ScopeIdentifier="ade38d98-be2d-442b-8063-4787a70ce5b3" Text="[currentQueueItem.SpecificContent(&quot;Expected Shipment Date&quot;).ToString]" Version="V5">
-                                  <uix:NTypeInto.Target>
-                                    <uix:TargetAnchorable BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="e80536c8-850e-419e-8004-4aca6a46da97" ContentHash="MdVU6e7VaEKBsOreQ-22WA" CvElementArea="529, 813, 412, 44" CvType="InputBox" DesignTimeRectangle="532, 815, 408, 42" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aaname='Expected Shipment Date' parentid='scroll-container' tag='INPUT' type='text' class='ember-text-field zf-date-picker date-picker ember-view form-control' placeholder='dd/MM/yyyy' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="2205d323-3758-4b0f-9bbd-bd513c71aa28" InformativeScreenshot="a275ec19010063456c13044e3d02d9fa.png" Reference="0ZykKJO-h02qC-ebExlJ8g/gRCpdIgVmEK_SPiVjVfkjg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+                                <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Expected Shipment Date'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,225.6" sap2010:WorkflowViewState.IdRef="NClick_23" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="ade38d98-be2d-442b-8063-4787a70ce5b3" Version="V5">
+                                  <uix:NClick.Target>
+                                    <uix:TargetAnchorable BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="33f42e68-fbd8-4d33-9e61-d9496ae056e9" ContentHash="kvggY0Hh3EyFX46LeSyCaQ" CvElementArea="530, 572, 411, 46" CvType="InputBox" DesignTimeRectangle="532, 574, 408, 43" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aaname='Expected Shipment Date' parentid='scroll-container' tag='INPUT' type='text' class='ember-text-field zf-date-picker date-picker ember-view form-control' placeholder='dd/MM/yyyy' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="148a4e25-3d30-4fa8-8065-56674fedec19" InformativeScreenshot="0de26dd0893a1ccd3c1127c25bfe623d.png" Reference="0ZykKJO-h02qC-ebExlJ8g/HWR13D6QIEanE91LJz_GUQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
                                       <uix:TargetAnchorable.Anchors>
-                                        <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
-                                          <uix:Target DesignTimeRectangle="290, 815, 223, 66" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Expected Shipment Date' parentid='scroll-container' tag='LABEL' type='' class='col-form-label col-lg-2' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Expected Shipment Date' /&gt;" Guid="32655121-3b66-4503-a4f4-13008fcfd9c8" SearchSteps="FuzzySelector" />
+                                        <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
+                                          <uix:Target DesignTimeRectangle="290, 574, 223, 67" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Expected Shipment Date' parentid='scroll-container' tag='LABEL' type='' class='col-form-label col-lg-2' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Expected Shipment Date' /&gt;" Guid="efed4c6c-9df2-4728-80b0-7079d4282b81" SearchSteps="FuzzySelector" />
+                                        </scg:List>
+                                      </uix:TargetAnchorable.Anchors>
+                                    </uix:TargetAnchorable>
+                                  </uix:NClick.Target>
+                                  <uix:NClick.VerifyOptions>
+                                    <uix:VerifyExecutionOptions DisplayName="{x:Null}" Mode="Appears">
+                                      <uix:VerifyExecutionOptions.Retry>
+                                        <InArgument x:TypeArguments="x:Boolean" />
+                                      </uix:VerifyExecutionOptions.Retry>
+                                      <uix:VerifyExecutionOptions.Timeout>
+                                        <InArgument x:TypeArguments="x:Double" />
+                                      </uix:VerifyExecutionOptions.Timeout>
+                                    </uix:VerifyExecutionOptions>
+                                  </uix:NClick.VerifyOptions>
+                                </uix:NClick>
+                                <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 'Expected Shipment Date'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,286.4" sap2010:WorkflowViewState.IdRef="NTypeInto_15" ScopeIdentifier="ade38d98-be2d-442b-8063-4787a70ce5b3" Text="[currentQueueItem.SpecificContent(&quot;Expected Shipment Date&quot;).ToString + &quot;[k(Enter)]&quot;]" Version="V5">
+                                  <uix:NTypeInto.Target>
+                                    <uix:TargetAnchorable BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="7520a44b-2314-4575-a0e6-eb3b4505a420" ContentHash="wagTXZEFjkqC-lppDm52oA" CvElementArea="529, 679, 412, 46" CvType="InputBox" DesignTimeRectangle="532, 682, 408, 42" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aaname='Expected Shipment Date' parentid='scroll-container' tag='INPUT' type='text' class='ember-text-field zf-date-picker date-picker ember-view form-control' placeholder='dd/MM/yyyy' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="1ed4628b-8bc7-4d88-b39c-24e5e87ce5e1" InformativeScreenshot="5faad2ebbcaaa987903072b63741258d.png" Reference="0ZykKJO-h02qC-ebExlJ8g/rdLEVcbyP0WOV35pS7kaJQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+                                      <uix:TargetAnchorable.Anchors>
+                                        <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
+                                          <uix:Target DesignTimeRectangle="290, 682, 223, 66" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Expected Shipment Date' parentid='scroll-container' tag='LABEL' type='' class='col-form-label col-lg-2' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Expected Shipment Date' /&gt;" Guid="1fe8101b-95a4-4c02-9e0a-c5406de3faf1" SearchSteps="FuzzySelector" />
                                         </scg:List>
                                       </uix:TargetAnchorable.Anchors>
                                     </uix:TargetAnchorable>
@@ -400,14 +421,9 @@
                                       </uix:VerifyExecutionTypeIntoOptions.Timeout>
                                     </uix:VerifyExecutionTypeIntoOptions>
                                   </uix:NTypeInto.VerifyOptions>
-                                  <sap:WorkflowViewStateService.ViewState>
-                                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-                                      <x:Boolean x:Key="IsPinned">False</x:Boolean>
-                                    </scg:Dictionary>
-                                  </sap:WorkflowViewStateService.ViewState>
                                 </uix:NTypeInto>
-                                <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 'Delivery Method'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,250.4" sap2010:WorkflowViewState.IdRef="NTypeInto_14" ScopeIdentifier="ade38d98-be2d-442b-8063-4787a70ce5b3" Text="[currentQueueItem.SpecificContent(&quot;Delivery Method&quot;).ToString]" Version="V5">
+                                <uix:NMouseScroll KeyModifiers="{x:Null}" Direction="Down" DisplayName="Mouse Scroll" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,168.8" sap2010:WorkflowViewState.IdRef="NMouseScroll_4" InteractionMode="HardwareEvents" MovementUnits="1" Version="V5" />
+                                <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 'Delivery Method'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,250.4" sap2010:WorkflowViewState.IdRef="NTypeInto_14" ScopeIdentifier="ade38d98-be2d-442b-8063-4787a70ce5b3" Text="[currentQueueItem.SpecificContent(&quot;Delivery Method&quot;).ToString + &quot;[k(Enter)]&quot;]" Version="V5">
                                   <uix:NTypeInto.Target>
                                     <uix:TargetAnchorable BrowserURL="inventory.zoho.com/app/900683537" CVScreenId="6b891b3a-6e6a-4aaa-a6d8-c1050460c708" ContentHash="Aw3XPCYoZE2cF_ATLvWlQA" CvElementArea="528, 631, 413, 46" CvType="InputBox" DesignTimeRectangle="528, 630, 413, 46" ElementType="InputBox" Guid="51bb511c-0158-45ce-823f-72ca1cf56272" InformativeScreenshot="5bccdc7ac0b98173515e3d4836ee3500.png" IsResponsive="True" Reference="0ZykKJO-h02qC-ebExlJ8g/PXBaGRyzXUO3pymswtmvPg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
                                       <uix:TargetAnchorable.Anchors>
@@ -493,7 +509,7 @@
                                     </scg:Dictionary>
                                   </sap:WorkflowViewStateService.ViewState>
                                 </uix:NTypeInto>
-                                <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Hong Thi'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,56.8" sap2010:WorkflowViewState.IdRef="NClick_12" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="ade38d98-be2d-442b-8063-4787a70ce5b3" Version="V5">
+                                <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'SalesPerson'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,225.6" sap2010:WorkflowViewState.IdRef="NClick_12" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="ade38d98-be2d-442b-8063-4787a70ce5b3" Version="V5">
                                   <uix:NClick.Target>
                                     <uix:TargetAnchorable BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="5f5acd58-9ab0-4c69-807d-b5dc0e1c313c" ContentHash="13fJvEUfUUa4xYnllt7MQw" CvElementArea="901, 452, 31, 36" CvTextArea="549, 461, 71, 20" CvTextArgument="Hong Thi" CvType="ArrowButton" DesignTimeRectangle="550, 458, 384, 25" FullSelectorArgument="&lt;webctrl class='autocomplete-option' parentid='acOption_0' tag='DIV' /&gt;" Guid="6c1b86f7-31a9-4c17-a244-c209d08356a4" InformativeScreenshot="ab14131c92dc7682d171cfdf05c14b32.png" Reference="0ZykKJO-h02qC-ebExlJ8g/6sum3gxlskmNarTvw7cQEQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
                                       <uix:TargetAnchorable.Anchors>
@@ -515,8 +531,8 @@
                                   </uix:NClick.VerifyOptions>
                                   <sap:WorkflowViewStateService.ViewState>
                                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                      <x:Boolean x:Key="IsExpanded">False</x:Boolean>
-                                      <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                      <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                     </scg:Dictionary>
                                   </sap:WorkflowViewStateService.ViewState>
                                 </uix:NClick>

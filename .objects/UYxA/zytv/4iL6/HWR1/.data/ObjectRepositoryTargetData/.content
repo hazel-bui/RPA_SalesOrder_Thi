@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kvggY0Hh3EyFX46LeSyCaQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="33f42e68-fbd8-4d33-9e61-d9496ae056e9" CvElementArea="530, 572, 411, 46" CvType="InputBox" DesignTimeRectangle="532, 574, 408, 43" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aaname='Expected Shipment Date' parentid='scroll-container' tag='INPUT' type='text' class='ember-text-field zf-date-picker date-picker ember-view form-control' placeholder='dd/MM/yyyy' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="148a4e25-3d30-4fa8-8065-56674fedec19" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="290, 574, 223, 67" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Expected Shipment Date' parentid='scroll-container' tag='LABEL' type='' class='col-form-label col-lg-2' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Expected Shipment Date' /&gt;" Guid="efed4c6c-9df2-4728-80b0-7079d4282b81" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0de26dd0893a1ccd3c1127c25bfe623d.png" xmlns="">0m7Hl5BPSBEebw8cbk8JmIw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
