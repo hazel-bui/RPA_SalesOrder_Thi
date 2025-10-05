@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type or click to select…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "DSdKzXkrAk6n5a95yrabWg",
+  "Reference": "0ZykKJO-h02qC-ebExlJ8g/DSdKzXkrAk6n5a95yrabWg",
+  "ParentRef": "0ZykKJO-h02qC-ebExlJ8g/4iL6mS6a0UW3mO0mAIMCpg",
+  "Created": "2025-10-04T09:05:06.2006463Z",
+  "Updated": "2025-10-04T09:05:06.2006463Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

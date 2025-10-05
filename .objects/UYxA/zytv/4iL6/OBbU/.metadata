@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Shipping Charges",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "OBbU37P4CkOgfAFy1VcCiA",
+  "Reference": "0ZykKJO-h02qC-ebExlJ8g/OBbU37P4CkOgfAFy1VcCiA",
+  "ParentRef": "0ZykKJO-h02qC-ebExlJ8g/4iL6mS6a0UW3mO0mAIMCpg",
+  "Created": "2025-10-04T09:12:44.4915573Z",
+  "Updated": "2025-10-04T09:12:44.4915573Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

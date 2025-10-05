@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kCoDWuyUQEOwKAmeSAuXxw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="4ca0545f-4757-4a90-b152-7fcceda2c408" CvElementArea="758, 313, 378, 44" CvType="InputBox" DesignTimeRectangle="758, 313, 377, 44" ElementType="InputBox" Guid="479a5c44-a536-49ca-9818-d48c2592f9d3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4ca0545f-4757-4a90-b152-7fcceda2c408" CvElementArea="736, 324, 19, 23" CvTextArea="631, 327, 106, 17" CvTextArgument="Display Name" CvType="ArrowButton" DesignTimeRectangle="619, 315, 144, 42" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Display Name' tag='BUTTON' type='button' class='dropdown-toggle   btn btn-secondary discount-btn' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Display Name' /&gt;" Guid="07ac25ec-baa5-45d7-a2aa-22c3a24d72bb" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="030bed82ca5f8d9daf8f212cfac61cfd.png" xmlns="">0QT8_V8jYrE-UUSC_FiZr3A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

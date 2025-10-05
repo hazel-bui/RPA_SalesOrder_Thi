@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Salesperson",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "mFrXtCzqfEC08Lwltg6JJg",
+  "Reference": "0ZykKJO-h02qC-ebExlJ8g/mFrXtCzqfEC08Lwltg6JJg",
+  "ParentRef": "0ZykKJO-h02qC-ebExlJ8g/4iL6mS6a0UW3mO0mAIMCpg",
+  "Created": "2025-10-03T13:13:47.4565582Z",
+  "Updated": "2025-10-03T13:13:47.4565582Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Meet - ktp-ycri-yvp",
+  "Type": "Screen",
+  "Id": "Rnzgjjh07UyhzFpySD6ufw",
+  "Reference": "0ZykKJO-h02qC-ebExlJ8g/Rnzgjjh07UyhzFpySD6ufw",
+  "ParentRef": "0ZykKJO-h02qC-ebExlJ8g/e6ho7AuaJEObMUEG7Y_Qmw",
+  "Created": "2025-10-05T03:35:23.1720672Z",
+  "Updated": "2025-10-05T03:35:23.1720672Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

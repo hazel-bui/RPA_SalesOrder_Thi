@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Edit",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "g4NrV8sK7ECp8XLATW0Z3Q",
+  "Reference": "0ZykKJO-h02qC-ebExlJ8g/g4NrV8sK7ECp8XLATW0Z3Q",
+  "ParentRef": "0ZykKJO-h02qC-ebExlJ8g/4iL6mS6a0UW3mO0mAIMCpg",
+  "Created": "2025-10-04T15:36:47.678758Z",
+  "Updated": "2025-10-04T15:36:47.678758Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

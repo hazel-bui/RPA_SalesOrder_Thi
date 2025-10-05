@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Bill To",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "ZMXyvnCwqU20qNQv92sitw",
+  "Reference": "0ZykKJO-h02qC-ebExlJ8g/ZMXyvnCwqU20qNQv92sitw",
+  "ParentRef": "0ZykKJO-h02qC-ebExlJ8g/4iL6mS6a0UW3mO0mAIMCpg",
+  "Created": "2025-10-04T09:26:06.9152631Z",
+  "Updated": "2025-10-04T09:26:06.9152631Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

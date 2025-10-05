@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HKs0qtG47kGgZHDl4DI0FA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="5c2b0ed1-a324-4bca-bbda-dea87c62160d" CvElementArea="529, 625, 413, 45" CvType="InputBox" DesignTimeRectangle="543, 631, 364, 35" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='ac-ember1441' tag='SPAN' type='' class='placeholder-text me-0 ac-selected-label' aaname='Select or Add Salesperson ' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Select or Add Salesperson' /&gt;" Guid="6a7b573d-2569-48d7-a35c-1a1f657158f1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5c2b0ed1-a324-4bca-bbda-dea87c62160d" CvTextArea="307, 639, 96, 17" CvTextArgument="Salesperson" CvType="Text" DesignTimeRectangle="290, 627, 223, 42" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Salesperson' parentid='scroll-container' tag='LABEL' type='' class='col-form-label col-lg-2 ' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Salesperson' /&gt;" Guid="221d30e7-af93-4240-98cc-acff3d29d428" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="BottomLeft" X="143" Y="18" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="ea3b8942180683b774961ba479ff0d7b.png" xmlns="">0pN9sq5KIDUWklHf4BQBCyA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

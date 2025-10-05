@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Home - File Explorer",
+  "Type": "Screen",
+  "Id": "jlTp83kO2kW6KLpVedYdZw",
+  "Reference": "0ZykKJO-h02qC-ebExlJ8g/jlTp83kO2kW6KLpVedYdZw",
+  "ParentRef": "0ZykKJO-h02qC-ebExlJ8g/d9AacimCsEGPkYmz4eH1Iw",
+  "Created": "2025-10-04T14:42:02.1892612Z",
+  "Updated": "2025-10-04T14:42:02.1892612Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

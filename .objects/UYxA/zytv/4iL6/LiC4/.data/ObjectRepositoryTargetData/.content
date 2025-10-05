@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="98Qqjnf-8kqux6T1STZ3qw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="1a7e7703-f6e2-40bd-9d10-b03074b38499" CvElementArea="376, 570, 512, 70" CvType="InputBox" DesignTimeRectangle="378, 572, 510, 67" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='lineitems-section' tag='TABLE' /&gt;&lt;webctrl tableRow='2' tag='TEXTAREA' /&gt;" Guid="fbec655f-b63d-405b-a21f-70a95b6f1a82" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1a7e7703-f6e2-40bd-9d10-b03074b38499" CvElementArea="321, 578, 43, 35" CvType="Icon" DesignTimeRectangle="329, 590, 30, 17" ElementType="Icon" FullSelectorArgument="&lt;webctrl id='lineitems-section' tag='TABLE' /&gt;&lt;webctrl tableRow='2' tag='path' /&gt;" Guid="12630665-a703-4a07-ade7-79872711c655" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACIAAAAVCAYAAAAjODzXAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAEOSURBVEhL7ZTZCoMwEEX7//8oIu477j6IKROYoncMBkttH3rhIMQbc0jUh7JMFEXKcRxB3/dYvZQHDhxlGAYhwARBgPVdxnHEocNYidR1LQS2mFKWpb5P17NYiTRNIxZnPM/Dug5LMGcyViLLsijXdYWEaQGUYIqiwOorViIUek9QJk1TrBklmDzPcYqOUYR2gdhmXVfVdZ0+qmmadvcoZxJMlmU41SwShqGeVFWVFjiLrQSDu3kogg+lT5SOxhTs27KVESK05TiBofPF47oqwXCEiOkPyvi+r9q21d13JQjOToTeByx+GiEyz7P4PO9AiMRxLEp3IESwcBd/EeR3RZIkEaVPQ2sKkW/nZ0Se5jqCXzZc5xgAAAAASUVORK5CYII=" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="37392efbf9d8edb1d25a6e80ade05f97.png" xmlns="">0p5tpPc3PJEip-mDYOL2upw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

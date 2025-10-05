@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Ship",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Evx_UYUCGEOH1vYP2692Ng",
+  "Reference": "0ZykKJO-h02qC-ebExlJ8g/Evx_UYUCGEOH1vYP2692Ng",
+  "ParentRef": "0ZykKJO-h02qC-ebExlJ8g/Rnzgjjh07UyhzFpySD6ufw",
+  "Created": "2025-10-05T03:51:38.2126295Z",
+  "Updated": "2025-10-05T03:51:38.2126295Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

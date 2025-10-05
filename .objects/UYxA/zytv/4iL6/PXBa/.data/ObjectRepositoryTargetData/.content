@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Aw3XPCYoZE2cF_ATLvWlQA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/900683537" CVScreenId="6b891b3a-6e6a-4aaa-a6d8-c1050460c708" CvElementArea="528, 631, 413, 46" CvType="InputBox" DesignTimeRectangle="528, 630, 413, 46" ElementType="InputBox" Guid="51bb511c-0158-45ce-823f-72ca1cf56272" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6b891b3a-6e6a-4aaa-a6d8-c1050460c708" CvTextArea="307, 645, 128, 18" CvTextArgument="Delivery Method" CvType="Text" DesignTimeRectangle="307, 645, 128, 18" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Delivery Method' parentid='scroll-container' tag='LABEL' /&gt;" Guid="22e2d164-d0ba-4129-969d-4d9fc3c77af1" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5bccdc7ac0b98173515e3d4836ee3500.png" xmlns="">0JCv1wQEaA0GYMiKlIHgzIg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

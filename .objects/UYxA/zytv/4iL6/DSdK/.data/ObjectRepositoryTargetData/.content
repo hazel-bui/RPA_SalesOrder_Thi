@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="N5TEp2ztZUG3vSbr5ahVEA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="07ddaede-ffb6-44b6-9e1b-87a84e506577" CvTextArea="386, 604, 236, 18" CvTextArgument="Type or click to select an item." CvType="Text" DesignTimeRectangle="378, 592, 510, 67" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='lineitems-section' tag='TABLE' /&gt;&lt;webctrl id='ember912' tableRow='2' tag='TEXTAREA' /&gt;" Guid="4e1d6e91-5781-4eea-b0b5-6d040f06ec81" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="07ddaede-ffb6-44b6-9e1b-87a84e506577" CvTextArea="386, 604, 236, 18" CvTextArgument="Type or click to select an item." CvType="Text" DesignTimeRectangle="386, 603, 236, 18" ElementType="Text" Guid="a26ae551-abf9-4401-864d-eac02e67beaf" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="101dcc09623673d340d45d91a566f25d.png" xmlns="">09GpPTOXGxUy3qejSH_Wf1w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

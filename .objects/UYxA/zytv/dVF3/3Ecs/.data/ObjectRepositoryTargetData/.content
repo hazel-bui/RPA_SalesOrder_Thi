@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1_GWzJBIyU26PpElQObH4g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="1f848cae-75e0-4c21-97db-1c6855412974" CvElementArea="356, 228, 378, 50" CvType="InputBox" DesignTimeRectangle="412, 234, 320, 42" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='app-quick-search-field' tag='INPUT' /&gt;" Guid="74e02765-d048-4b71-9902-431d815b54b5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1f848cae-75e0-4c21-97db-1c6855412974" CvElementArea="356, 228, 378, 50" CvType="InputBox" DesignTimeRectangle="367, 245, 20, 20" ElementType="Icon" FullSelectorArgument="&lt;webctrl parentid='Search' tag='path' /&gt;" Guid="60fe7eb0-1e60-45d4-8168-3d4d0b22eebf" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="575f38e86f44511d786e9c31318e411e.png" xmlns="">0iaPKkgPUwUCdHK1caWCJ-A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

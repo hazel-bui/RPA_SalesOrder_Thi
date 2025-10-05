@@ -1,0 +1,14 @@
+﻿{
+  "Name": "inventory.zoho.comapp…(1)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "AmQ2S650EEWCTV1flDyGnQ",
+  "Reference": "0ZykKJO-h02qC-ebExlJ8g/AmQ2S650EEWCTV1flDyGnQ",
+  "ParentRef": "0ZykKJO-h02qC-ebExlJ8g/4iL6mS6a0UW3mO0mAIMCpg",
+  "Created": "2025-10-04T14:54:18.4835938Z",
+  "Updated": "2025-10-04T14:54:18.4835938Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

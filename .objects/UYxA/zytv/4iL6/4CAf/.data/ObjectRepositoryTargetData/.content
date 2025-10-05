@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hxjLLOXrn0u6InqAgP-HmQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" DesignTimeRectangle="1304, 568, 440, 104" FullSelectorArgument="&lt;webctrl id='template-html-shadow-host' tag='DIV' /&gt;&lt;webctrl shadowhostid='template-html-shadow-host' tag='TABLE' /&gt;&lt;webctrl class='text-align-right' shadowhostid='template-html-shadow-host' tableRow='1' tag='TD' /&gt;" Guid="6560e8cb-380c-4b5a-833a-82143425e8c3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SO-00023 | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5c6912a23c25464208b1cf7abeb8d14a.png" xmlns="">0_sg23VKFxkm1UtjFMGGpGA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

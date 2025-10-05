@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fz-b6b4A4kmQcDuIVHxv4Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/900683537" CVScreenId="d046ae55-20f6-4479-8867-7a2caae3878b" CvElementArea="750, 967, 69, 44" CvTextArea="764, 981, 40, 16" CvTextArgument="Save" CvType="Button" DesignTimeRectangle="750, 966, 68, 44" ElementType="Button" Guid="113acc5b-632a-4de2-aa94-3683fb7f0dac" ScopeSelectorArgument="&lt;html app='chrome.exe' title='New Package | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d046ae55-20f6-4479-8867-7a2caae3878b" CvTextArea="791, 246, 179, 31" CvTextArgument="New Package" CvType="Text" DesignTimeRectangle="759, 245, 212, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='float-start' tag='H3' type='' aaname=' New Package' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='New Package' /&gt;" Guid="3e7d16b3-5c9c-40d8-b1b7-418afad5cd4b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c906386e25dc6cf40d985f9350c82456.png" xmlns="">0T2fDAZaHakaAF7iB7PJqzQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

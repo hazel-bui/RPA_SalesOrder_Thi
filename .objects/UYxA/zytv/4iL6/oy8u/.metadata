@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Book Rate VND80.00 Sto…",
+  "Type": "Element",
+  "Id": "oy8u6bAxH0C-eFH6AH_mmA",
+  "Reference": "0ZykKJO-h02qC-ebExlJ8g/oy8u6bAxH0C-eFH6AH_mmA",
+  "ParentRef": "0ZykKJO-h02qC-ebExlJ8g/4iL6mS6a0UW3mO0mAIMCpg",
+  "Created": "2025-10-04T10:06:53.5101794Z",
+  "Updated": "2025-10-04T10:06:53.5101794Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

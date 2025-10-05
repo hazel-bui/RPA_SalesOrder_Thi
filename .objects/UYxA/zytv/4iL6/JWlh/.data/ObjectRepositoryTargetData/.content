@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eFRQP8CnDECcOt39cjLHTA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="c08811c1-e442-45d1-8ab5-98d011190734" CvElementArea="1717, 302, 89, 46" CvType="Button" DesignTimeRectangle="1719, 305, 85, 41" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname=' New' tag='BUTTON' type='' class='btn btn-primary d-flex align-items-center ' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='New' /&gt;" Guid="e231fef6-d26e-4370-953c-8ecae29f37c1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sales Orders | Zoho Inventory' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c08811c1-e442-45d1-8ab5-98d011190734" CvElementArea="1717, 302, 89, 46" CvTextArea="1755, 317, 36, 15" CvTextArgument="New" CvType="Button" DesignTimeRectangle="1756, 313, 35, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='ms-2' tag='SPAN' type='' aaname='New' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='New' /&gt;" Guid="0dac96eb-67cd-4149-abfa-0cfe0b5020bd" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="5" Y="-1" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="bb746c38b969be9e9e528ae47efd38e6.png" xmlns="">0ywBjDi_x4EuBAJnvfwgm-Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

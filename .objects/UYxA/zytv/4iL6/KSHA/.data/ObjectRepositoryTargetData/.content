@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Jqlx5Ow9B0C_Y7Eq6suIpQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="0390644a-f21b-4a1c-b524-0db76f59367b" CvTextArea="487, 879, 138, 16" CvTextArgument="Save and Confirm" CvType="Text" DesignTimeRectangle="450, 867, 188, 43" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' /&gt;" Guid="d69369cd-e370-4d3c-a42c-ee9cc4adfe05" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0390644a-f21b-4a1c-b524-0db76f59367b" CvElementArea="442, 962, 179, 49" CvTextArea="456, 979, 116, 15" CvTextArgument="Save and Send" CvType="Button" DesignTimeRectangle="444, 964, 142, 46" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn btn-primary ember-view' aaname=' Save and Send' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Save and Send' /&gt;" Guid="26182f20-0772-4670-9c64-8dcd58f94f11" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="03a721a03fb92008b56ab6c8dabdc81e.png" xmlns="">0dyD-v4f1cUCgZyM1TEZeRg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

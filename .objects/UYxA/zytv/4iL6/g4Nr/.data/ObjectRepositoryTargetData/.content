@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KMkskGiBrku_bdKtL5Qlwg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="18e43edb-c209-4893-a0d7-f45359cc8761" CvType="AnyWordGroup" DesignTimeRectangle="759, 311, 118, 36" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-role='heading' parentid='entity-details-section' tag='DIV' /&gt;" Guid="25d4d7eb-6f8e-4e6f-ab98-f7453ca4cb46" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SO-00040 | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="18e43edb-c209-4893-a0d7-f45359cc8761" CvTextArea="772, 382, 31, 15" CvTextArgument="Edit" CvType="Text" DesignTimeRectangle="772, 382, 30, 16" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Edit' tag='SPAN' /&gt;" Guid="7687797b-07bc-4ff6-a7cc-38ff608e6556" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="73db3319ced786d6c4b1e612729162bb.png" xmlns="">0hZcZw4GJ60-2_FkGF4wflA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

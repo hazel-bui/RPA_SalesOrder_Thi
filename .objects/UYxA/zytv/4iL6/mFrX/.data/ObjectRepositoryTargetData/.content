@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SA2M8p6TdkKe6fQh-aMIHw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="78b26683-abb4-40b5-a1a2-2a838b22da8e" CvElementArea="529, 624, 412, 45" CvType="InputBox" DesignTimeRectangle="543, 631, 331, 35" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='ac-ember1441' tag='SPAN' /&gt;" Guid="30ef42a1-b0ab-4e80-8ccf-bd55b0df7727" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="78b26683-abb4-40b5-a1a2-2a838b22da8e" CvTextArea="307, 639, 96, 17" CvTextArgument="Salesperson" CvType="Text" DesignTimeRectangle="290, 627, 223, 42" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Salesperson' parentid='scroll-container' tag='LABEL' type='' class='col-form-label col-lg-2 ' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Salesperson' /&gt;" Guid="c50828e6-e417-43de-8d84-8a3fa194d986" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0a3f972567a9f67d3821d4a977c55fd9.png" xmlns="">01ZDrCjTD2UGJalu3c0u48Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xslcWZdyMkmrs7eokYNBag" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="1d4a51fb-a18e-4f0c-b8d8-cbdbbdb705de" CvTextArea="387, 596, 60, 16" CvTextArgument="Dě Mèn" CvType="Text" DesignTimeRectangle="378, 586, 510, 67" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='lineitems-section' tag='TABLE' /&gt;&lt;webctrl id='ember529' tableRow='2' tag='TEXTAREA' /&gt;" Guid="5c379bb5-65e4-40ba-8ad8-90ce914fc3ee" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1d4a51fb-a18e-4f0c-b8d8-cbdbbdb705de" CvTextArea="321, 556, 94, 13" CvTextArgument="ITEM DETAILS" CvType="Text" DesignTimeRectangle="310, 543, 578, 43" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='lineitems-section' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl aaname='Item Details' type='' tag='TH' class='line-item-column over-flow item-details' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='ITEM DETAILS' /&gt;" Guid="0d66d5ad-467f-4ab5-b4e9-f954118da66f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="828fe5b304058083107401d0e72b6add.png" xmlns="">0BpfekwX2p0Wx_KCNxoquIQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

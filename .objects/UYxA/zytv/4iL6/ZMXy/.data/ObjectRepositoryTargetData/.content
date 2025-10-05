@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="T84Tp08TuECQwta7TYJMfA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/900683537" CVScreenId="e08a37c9-0343-4849-81b7-f42cbd7335f0" CvType="AnyWordGroup" DesignTimeRectangle="867, 739, 139, 20" ElementType="Text" FullSelectorArgument="&lt;webctrl id='template-html-shadow-host' tag='DIV' /&gt;&lt;webctrl idx='2' shadowhostid='template-html-shadow-host' tag='TABLE' /&gt;&lt;webctrl shadowhostid='template-html-shadow-host' tableRow='1' tag='A' /&gt;" Guid="bfbb95bf-59c8-4c65-8230-adfa827f405e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SO-00025 | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e08a37c9-0343-4849-81b7-f42cbd7335f0" CvTextArea="865, 715, 47, 16" CvTextArgument="Bill To" CvType="Text" DesignTimeRectangle="867, 712, 45, 23" ElementType="Text" FullSelectorArgument="&lt;webctrl id='template-html-shadow-host' tag='DIV' /&gt;&lt;webctrl idx='2' shadowhostid='template-html-shadow-host' tag='TABLE' /&gt;&lt;webctrl id='tmp_billing_address_label' shadowhostid='template-html-shadow-host' tableRow='1' tag='LABEL' /&gt;" Guid="3ff69d20-3dc9-498e-93a4-cb2df18f9fd5" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="eb2b93fbbef4692604781ab731eeeb43.png" xmlns="">0czhTK-s-ME-ugguWxDIRlQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

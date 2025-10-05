@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CE-Vae-S9kumwxldFz5Ebg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="010a4d2f-07b0-4168-9224-67eb6c138b60" CvElementArea="620, 302, 44, 44" CvTextArea="631, 314, 20, 18" CvTextArgument="+" CvType="Button" DesignTimeRectangle="623, 305, 39, 40" ElementType="Button" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;button' tabindex='0' tag='BUTTON' type='button' /&gt;" Guid="6f5c5c25-4fc5-4dd5-9696-2c31f264056a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SO-00045 | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="010a4d2f-07b0-4168-9224-67eb6c138b60" CvTextArea="301, 315, 156, 17" CvTextArgument="All Sales Orders" CvType="Text" DesignTimeRectangle="304, 309, 154, 32" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='All Sales Orders' tag='SPAN' type='' class='filter-title over-flow ' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='All Sales Orders' /&gt;" Guid="5be2c5db-245b-4feb-b2f0-a352b77580b1" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6fe44dc4f309a33f7c510571602cf7a0.png" xmlns="">0-z2MEb__sE-Nk_O-VUyrZg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

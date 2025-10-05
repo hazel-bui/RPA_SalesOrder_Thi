@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NHvipg2mVkaM4tLmnAG9wQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="df85f1b3-f7cf-4bec-b324-aa170665839c" CvElementArea="537, 629, 399, 45" CvType="InputBox" DesignTimeRectangle="538, 631, 396, 42" ElementType="InputBox" FullSelectorArgument="&lt;webctrl aria-label='Search' tag='INPUT' /&gt;" Guid="a6e9caa5-9ba5-4b74-89e2-155bf63be533" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="df85f1b3-f7cf-4bec-b324-aa170665839c" CvElementArea="537, 629, 399, 45" CvType="InputBox" DesignTimeRectangle="550, 643, 18, 18" ElementType="Icon" FullSelectorArgument="&lt;webctrl parentid='ember1754' tag='svg' /&gt;" Guid="abb517ae-98f4-41cc-b25d-d84ab0ba1e0a" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7f99767323d1dd0e58a1eafb4be361cd.png" xmlns="">00IwVIQO9dUGQ27KIYbYQAg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

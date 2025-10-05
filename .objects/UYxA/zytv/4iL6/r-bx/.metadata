@@ -1,0 +1,14 @@
+﻿{
+  "Name": "New Customer",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "r-bxSDbnbUeGLssfRnSxKg",
+  "Reference": "0ZykKJO-h02qC-ebExlJ8g/r-bxSDbnbUeGLssfRnSxKg",
+  "ParentRef": "0ZykKJO-h02qC-ebExlJ8g/4iL6mS6a0UW3mO0mAIMCpg",
+  "Created": "2025-10-03T13:00:11.4393888Z",
+  "Updated": "2025-10-03T13:00:11.4393888Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

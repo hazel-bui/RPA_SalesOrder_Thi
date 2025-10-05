@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sLkjIsqCIU6LjAl_a8e8bQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/900683537" CVScreenId="655122b3-08f4-4e81-b270-b770f360f6e6" CvType="AnyWordGroup" DesignTimeRectangle="1557, 645, 185, 23" FullSelectorArgument="&lt;webctrl id='template-html-shadow-host' tag='DIV' /&gt;&lt;webctrl shadowhostid='template-html-shadow-host' tag='TABLE' /&gt;&lt;webctrl parentid='tmp_entity_number' shadowhostid='template-html-shadow-host' tableRow='1' tag='B' /&gt;" Guid="55cf8bdf-47b5-411b-9366-641d281b4ac5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SO-00025 | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="655122b3-08f4-4e81-b270-b770f360f6e6" CvTextArea="1444, 586, 299, 40" CvTextArgument="SALES ORDER" CvType="Text" DesignTimeRectangle="1445, 574, 297, 64" ElementType="Text" FullSelectorArgument="&lt;webctrl id='template-html-shadow-host' tag='DIV' /&gt;&lt;webctrl shadowhostid='template-html-shadow-host' tag='TABLE' /&gt;&lt;webctrl class='pcs-entity-title' shadowhostid='template-html-shadow-host' tableRow='1' tag='SPAN' /&gt;" Guid="2f728f5a-7968-4d73-8c21-ed78d8f97d90" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="75464787cd43dc814a82e165db632f81.png" xmlns="">0ScUSQvFc2UCgLRlRsRbaOQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

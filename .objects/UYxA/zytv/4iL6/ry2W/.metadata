@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Select or Add Salespers…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "ry2W0wPy3UOGigCmcM8hHA",
+  "Reference": "0ZykKJO-h02qC-ebExlJ8g/ry2W0wPy3UOGigCmcM8hHA",
+  "ParentRef": "0ZykKJO-h02qC-ebExlJ8g/4iL6mS6a0UW3mO0mAIMCpg",
+  "Created": "2025-10-03T13:13:22.8245404Z",
+  "Updated": "2025-10-03T13:13:22.8245404Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

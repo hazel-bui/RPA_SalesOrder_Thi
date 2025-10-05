@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Delivery Method",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "PXBaGRyzXUO3pymswtmvPg",
+  "Reference": "0ZykKJO-h02qC-ebExlJ8g/PXBaGRyzXUO3pymswtmvPg",
+  "ParentRef": "0ZykKJO-h02qC-ebExlJ8g/4iL6mS6a0UW3mO0mAIMCpg",
+  "Created": "2025-10-05T02:49:47.0039694Z",
+  "Updated": "2025-10-05T02:49:47.0039694Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

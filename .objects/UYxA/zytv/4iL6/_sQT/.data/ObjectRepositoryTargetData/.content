@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zCcjsw3VCkevG1EwPW4OwA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="68b34cc4-53c7-4c61-a960-d382f835a0ab" CvType="AnyWordGroup" DesignTimeRectangle="1662, 765, 79, 20" ElementType="Text" FullSelectorArgument="&lt;webctrl id='template-html-shadow-host' tag='DIV' /&gt;&lt;webctrl shadowhostid='template-html-shadow-host' tableRow='1' tag='TABLE' /&gt;&lt;webctrl id='tmp_entity_date' shadowhostid='template-html-shadow-host' tableRow='1' tag='SPAN' /&gt;" Guid="c75ea3f4-f1bd-4c17-934a-8fb4c7a9028d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SO-00024 | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="68b34cc4-53c7-4c61-a960-d382f835a0ab" CvTextArea="1459, 765, 96, 16" CvTextArgument="Order Date :" CvType="Text" DesignTimeRectangle="1459, 765, 96, 16" ElementType="Text" FullSelectorArgument="&lt;webctrl id='template-html-shadow-host' tag='DIV' /&gt;&lt;webctrl shadowhostid='template-html-shadow-host' tableRow='1' tag='TABLE' /&gt;&lt;webctrl shadowhostid='template-html-shadow-host' tableRow='1' tag='SPAN' /&gt;" Guid="94648a95-afc8-42a0-b1e0-386dc749a4f7" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="85bd1cb8cf3ac170faba44ce6a4379ad.png" xmlns="">0cHB87plpWk-KXX_OHbF0tQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

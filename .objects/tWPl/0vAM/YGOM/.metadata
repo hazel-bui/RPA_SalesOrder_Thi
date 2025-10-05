@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Cách xóa nội dung trong UiPath",
+  "Type": "Screen",
+  "Id": "YGOMJ8k1t0KvK8xWOA0rFA",
+  "Reference": "0ZykKJO-h02qC-ebExlJ8g/YGOMJ8k1t0KvK8xWOA0rFA",
+  "ParentRef": "0ZykKJO-h02qC-ebExlJ8g/0vAMbRkXwUiM3A8cuEjpVg",
+  "Created": "2025-10-04T15:25:03.0322982Z",
+  "Updated": "2025-10-04T15:25:03.0322982Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

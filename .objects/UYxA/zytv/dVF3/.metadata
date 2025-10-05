@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome SO-00031  Sales Orders  Zoho Inventory",
+  "Type": "Screen",
+  "Id": "dVF3-6-5JE-xygcV3ldb5g",
+  "Reference": "0ZykKJO-h02qC-ebExlJ8g/dVF3-6-5JE-xygcV3ldb5g",
+  "ParentRef": "0ZykKJO-h02qC-ebExlJ8g/zytvdV5Q40CC9VCqMeDdCg",
+  "Created": "2025-10-04T14:45:18.9135211Z",
+  "Updated": "2025-10-04T14:45:18.9135211Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

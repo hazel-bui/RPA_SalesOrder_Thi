@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JtLAEA9MK0qnR0O2JZERSw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/900683537" CVScreenId="9f12b40e-2eeb-432e-bc21-9879cadadea4" CvTextArea="859, 317, 35, 18" CvTextArgument="Ship" CvType="Text" DesignTimeRectangle="827, 308, 93, 36" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Ship ' tag='BUTTON' type='button' /&gt;" Guid="cb3dfc47-294a-4778-b852-6021556bfc68" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9f12b40e-2eeb-432e-bc21-9879cadadea4" CvTextArea="859, 317, 35, 18" CvTextArgument="Ship" CvType="Text" DesignTimeRectangle="860, 313, 34, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='text-truncate' tag='SPAN' type='' aaname='Ship' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Ship' /&gt;" Guid="8306dc9c-8164-42ce-9ff9-c8013c6e6fdf" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c058bab63e86aeb308c8ac27cdac3a5e.png" xmlns="">0O5k2JIq_40KpALwU7GNUoA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

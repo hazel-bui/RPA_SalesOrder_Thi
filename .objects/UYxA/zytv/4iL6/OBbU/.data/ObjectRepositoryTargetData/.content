@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ELnQG678F0eEpKNi9sQhEA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="d4897b8d-2b1d-4aa4-b4ab-0bced2388026" CvElementArea="1157, 344, 163, 47" CvType="InputBox" DesignTimeRectangle="1160, 347, 157, 42" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='ember750' tag='INPUT' type='text' class='ember-text-field text-end ember-view form-control' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="b7ef4c62-de73-4d5a-a28b-5af85ea5ebb4" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d4897b8d-2b1d-4aa4-b4ab-0bced2388026" CvTextArea="964, 359, 137, 18" CvTextArgument="Shipping Charges" CvType="Text" DesignTimeRectangle="965, 347, 157, 40" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='form-control-plaintext' parentid='ember749' tag='DIV' type='' aaname='Shipping Charges ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Shipping Charges' /&gt;" Guid="ed062cc0-4490-44bd-970b-4d08652572e6" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="51b887701866baee393f1b35a73cf331.png" xmlns="">0qEWvukhfXkWkl2Z6sCZGcQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

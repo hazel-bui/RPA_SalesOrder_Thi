@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kML7Pm4Jz0S04YpQq2Q5Kg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="24a3119b-0ee7-44cc-a66c-39e8aea61874" CvTextArea="386, 599, 236, 18" CvTextArgument="Type or click to select an item." CvType="Text" DesignTimeRectangle="378, 587, 510, 67" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='lineitems-section' tag='TABLE' /&gt;&lt;webctrl id='ember518' tableRow='2' tag='TEXTAREA' /&gt;" Guid="4868aead-8b0c-4159-848d-5540253f1a96" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="24a3119b-0ee7-44cc-a66c-39e8aea61874" CvElementArea="321, 594, 44, 34" CvType="Icon" DesignTimeRectangle="329, 605, 30, 17" ElementType="Icon" FullSelectorArgument="&lt;webctrl id='lineitems-section' tag='TABLE' /&gt;&lt;webctrl tableRow='2' tag='path' /&gt;" Guid="c276669e-d4b2-41e0-9102-a674d0fb1fc6" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACIAAAAVCAYAAAAjODzXAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAEOSURBVEhL7ZTZCoMwEEX7//8oIu477j6IKROYoncMBkttH3rhIMQbc0jUh7JMFEXKcRxB3/dYvZQHDhxlGAYhwARBgPVdxnHEocNYidR1LQS2mFKWpb5P17NYiTRNIxZnPM/Dug5LMGcyViLLsijXdYWEaQGUYIqiwOorViIUek9QJk1TrBklmDzPcYqOUYR2gdhmXVfVdZ0+qmmadvcoZxJMlmU41SwShqGeVFWVFjiLrQSDu3kogg+lT5SOxhTs27KVESK05TiBofPF47oqwXCEiOkPyvi+r9q21d13JQjOToTeByx+GiEyz7P4PO9AiMRxLEp3IESwcBd/EeR3RZIkEaVPQ2sKkW/nZ0Se5jqCXzZc5xgAAAAASUVORK5CYII=" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e17500628054139cd91fa3ef920ba13c.png" xmlns="">0T66C6Bd1NUq071C__Q7KRw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

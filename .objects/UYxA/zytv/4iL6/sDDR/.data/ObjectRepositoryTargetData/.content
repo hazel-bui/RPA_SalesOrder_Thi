@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tQuqHbQ0FEqMNc4x6eWJjQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="9c9104f7-1c97-4137-9658-d1a148b4eeab" CvTextArea="79, 539, 101, 15" CvTextArgument="Sales Orders" CvType="Text" DesignTimeRectangle="22, 528, 250, 37" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='                                                       Sales Orders                                                  ' tag='A' /&gt;" Guid="71a45aef-7df8-4dc6-9fe2-0b40e2b47154" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dashboard | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9c9104f7-1c97-4137-9658-d1a148b4eeab" CvTextArea="79, 539, 101, 15" CvTextArgument="Sales Orders" CvType="Text" DesignTimeRectangle="82, 534, 98, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='                     Sales Orders                   ' tag='SPAN' type='' class='sub-tab-name white-space-normal translatex-8 nav-text has-element-right' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Sales Orders' /&gt;" Guid="38eb9e4a-d972-4b13-8f9a-ccda5b5db67e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="6" Y="3" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="109cfb4393db7c29b94a9ce28f98993e.png" xmlns="">0pDE0APBEi0yRTGnKRcYc1w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xtArKa80fUeRUG-yDIWl2g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="547970ce-8e06-4f53-898e-cac56e8acc4f" CvElementArea="308, 586, 521, 69" CvType="InputBox" DesignTimeRectangle="309, 589, 520, 67" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl parentid='lineitems-table-body' tag='TEXTAREA' type='' class='ember-text-area form-control ember-view' placeholder='Enter any notes to be displayed in your transaction' aaname='Customer Notes' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="1a96c930-fa8f-4b3a-8df4-6fdc3cd8d962" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="547970ce-8e06-4f53-898e-cac56e8acc4f" CvTextArea="307, 561, 126, 16" CvTextArgument="Customer Notes" CvType="Text" DesignTimeRectangle="309, 557, 125, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='lineitems-table-body' tag='LABEL' type='' class='mb-2' aaname='Customer Notes' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Customer Notes' /&gt;" Guid="3de813ec-60b6-4fd9-906d-db040453a138" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f06034e1af7938046196ed1253f76ff3.png" xmlns="">0e_sbESYkIkiyz9WLIOR7wA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="13fJvEUfUUa4xYnllt7MQw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="5f5acd58-9ab0-4c69-807d-b5dc0e1c313c" CvElementArea="901, 452, 31, 36" CvTextArea="549, 461, 71, 20" CvTextArgument="Hong Thi" CvType="ArrowButton" DesignTimeRectangle="550, 458, 384, 25" FullSelectorArgument="&lt;webctrl class='autocomplete-option' parentid='acOption_0' tag='DIV' /&gt;" Guid="6c1b86f7-31a9-4c17-a244-c209d08356a4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Add New | Sales Orders | Zoho Inventory' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5f5acd58-9ab0-4c69-807d-b5dc0e1c313c" CvTextArea="549, 461, 71, 20" CvTextArgument="Hong Thi" CvType="Text" DesignTimeRectangle="550, 461, 362, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='option' parentid='acOption_0' tag='DIV' type='' aaname='Hong Thi' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Hong Thi' /&gt;" Guid="03271966-d67e-49e3-a878-06603fce588c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ab14131c92dc7682d171cfdf05c14b32.png" xmlns="">07jQDryyib0SzzJQkqB2QcA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

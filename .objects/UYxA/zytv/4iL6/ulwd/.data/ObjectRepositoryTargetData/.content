@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="raINzndS6E-c1eEqdNxJ-g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="inventory.zoho.com/app/899792498" CVScreenId="dee1e346-d8ee-4c37-941b-12ac605c7d9a" CvElementArea="154, 66, 1529, 41" CvType="InputBox" DesignTimeRectangle="205, 72, 1429, 31" ElementType="InputBox" FullSelectorArgument="&lt;ctrl role='pane' /&gt;&lt;ctrl name='Address and search bar' role='editable text' /&gt;" Guid="0db6788b-ec06-499f-b2b8-0f9128ecdfde" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='SO-00038 | Sales Orders | Zoho Inventory - Google Chrome' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dee1e346-d8ee-4c37-941b-12ac605c7d9a" CvElementArea="154, 66, 1529, 41" CvType="InputBox" DesignTimeRectangle="165, 72, 31, 31" ElementType="Button" FullSelectorArgument="&lt;ctrl role='pane' /&gt;&lt;ctrl name='View site information' role='menu button' /&gt;" Guid="2c69b472-5a8b-49f4-a213-cf71be23d4ef" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ad2f7f6419872909ade280e252cdaeae.png" xmlns="">0gi8SbnkSikm_KGqFLllxHw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
